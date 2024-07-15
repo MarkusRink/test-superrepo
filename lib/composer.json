@@ -1,0 +1,17 @@
+{
+    "name": "curasoft/api.curasoft",
+    "description": "API",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Curasoft\\ApiCurasoft\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Markus Rink",
+            "email": "m.rink@curasoft.de"
+        }
+    ],
+    "require": {}
+}
