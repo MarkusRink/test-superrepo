@@ -1,8 +1,7 @@
 <?php
 
 class FeatureA {
-    // some comment added in stage
-    public function speak() {
+    public function __construct() {
         echo "Hello World!";
     }
 }
