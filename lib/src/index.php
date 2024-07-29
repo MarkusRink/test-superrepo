@@ -2,6 +2,6 @@
 
 class FeatureA {
     public function __construct() {
-        echo "Hello World!!";
+        echo "Hello World!!!";
     }
 }
