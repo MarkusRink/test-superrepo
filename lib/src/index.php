@@ -12,4 +12,8 @@ class FeatureA {
     public function speak2() {
         echo "AB";
     }
+
+    public function speak() {
+        echo "Hello World.";
+    }
 }
