@@ -10,6 +10,6 @@ class FeatureA {
     }
 
     public function speak2() {
-        echo "Hello World.";
+        echo "A";
     }
 }
